@@ -1,0 +1,33 @@
+{
+  "name": "skeleton",
+  "version": "1.0.0",
+  "description": "setting of gulp file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kotamat/coffee-skeleton.git"
+  },
+  "keywords": [
+    "coffeescript",
+    "skeletton"
+  ],
+  "author": "kotamat",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kotamat/coffee-skeleton/issues"
+  },
+  "homepage": "https://github.com/kotamat/coffee-skeleton#readme",
+  "devDependencies": {
+    "browserify": "^12.0.1",
+    "coffeeify": "^2.0.1",
+    "express": "^4.13.3",
+    "gulp": "^3.9.0",
+    "gulp-livereload": "^3.8.1",
+    "gulp-plumber": "^1.0.1",
+    "gulp-sass": "^2.1.1",
+    "vinyl-source-stream": "^1.1.0"
+  }
+}
